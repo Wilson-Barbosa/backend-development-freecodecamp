@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Wilson Diego Barbosa",
+	"description": "This project was built as part of the Back End Development and APIs certification, by freeCodeCamp.org",
+	"keywords": ["freecodecamp", "certification", "backend Development"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
